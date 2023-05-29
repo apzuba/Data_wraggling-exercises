@@ -1,0 +1,379 @@
+MSA,ViolentCrime,Murder,Rape,Robbery,AggravatedAssault,PropertyCrime,Burglary,Theft,MotorVehicleTheft,State,City
+"Abilene, TX M.S.A.",412.5,5.3,56.0,78.4,272.8,"3,609.0",852.0,"2,493.6",263.4,TX,Abilene
+"Akron, OH M.S.A.",238.4,5.1,38.2,75.2,119.8,"2,552.4",575.3,"1,853.0",124.1,OH,Akron
+"Albany, GA M.S.A.",667.9,7.8,30.4,157.9,471.8,"3,894.1","1,099.6","2,652.8",141.7,GA,Albany
+"Albany, OR M.S.A.",114.3,2.5,28.2,20.7,63.0,"3,208.4",484.6,"2,476.1",247.7,OR,Albany
+"Albuquerque, NM M.S.A.",792.6,6.1,63.8,206.7,516.0,"4,607.8",883.4,"3,047.6",676.9,NM,Albuquerque
+"Alexandria, LA M.S.A.",936.4,4.5,35.5,120.1,776.3,"4,565.9","1,167.0","3,083.7",315.2,LA,Alexandria
+"Altoona, PA M.S.A.",216.5,0.8,28.7,25.5,161.6,"1,430.2",218.9,"1,163.6",47.8,PA,Altoona
+"Amarillo, TX M.S.A.",538.7,3.4,72.0,107.1,356.1,"3,827.4",763.2,"2,743.2",321.0,TX,Amarillo
+"Ames, IA M.S.A.",158.5,1.0,47.2,19.9,90.3,"1,848.3",311.7,"1,462.0",74.5,IA,Ames
+"Anchorage, AK M.S.A.","1,039.5",8.2,165.6,199.1,666.6,"4,030.1",554.9,"3,087.5",387.7,AK,Anchorage
+"Ann Arbor, MI M.S.A.",319.5,1.9,57.0,51.4,209.2,"1,791.9",290.4,"1,417.4",84.2,MI,Ann Arbor
+"Anniston-Oxford-Jacksonville, AL M.S.A.",699.3,8.7,53.9,86.0,550.7,"3,295.8","1,012.9","2,160.4",122.5,AL,Oxford
+"Appleton, WI M.S.A.",138.8,0.4,24.1,8.6,105.7,"1,394.9",206.6,"1,154.7",33.5,WI,Appleton
+"Asheville, NC M.S.A.",202.0,2.7,19.5,50.2,129.7,"2,158.8",592.6,"1,436.6",129.7,NC,Asheville
+"Athens-Clarke County, GA M.S.A.",325.7,2.5,41.3,67.7,214.2,"3,105.5",675.4,"2,272.7",157.4,GA,Athens
+"Atlanta-Sandy Springs-Roswell, GA M.S.A.",401.0,6.2,21.4,151.7,221.7,"3,069.8",629.4,"2,113.2",327.2,GA,Atlanta
+"Atlantic City-Hammonton, NJ M.S.A.2",414.0,6.9,21.1,187.0,199.0,"2,817.3",525.0,"2,210.1",82.2,NJ,West Atlantic City
+"Austin-Round Rock, TX M.S.A.2",287.7,2.2,44.9,61.2,179.4,"2,672.8",415.7,"2,096.8",160.2,TX,Austin
+"Bakersfield, CA M.S.A.",556.3,7.3,32.2,130.2,386.6,"3,439.3",954.3,"1,881.1",603.9,CA,Bakersfield
+"Baltimore-Columbia-Towson, MD M.S.A.",624.7,13.1,29.8,239.0,342.8,"2,625.0",517.6,"1,823.0",284.4,MD,Baltimore
+"Bangor, ME M.S.A.",67.3,2.0,9.1,17.6,38.5,"1,984.5",337.0,"1,604.4",43.1,ME,Bangor
+"Barnstable Town, MA M.S.A.",518.7,1.4,49.4,28.9,439.1,"1,722.5",475.9,"1,170.7",75.9,MA,
+"Baton Rouge, LA M.S.A.",478.9,11.1,33.9,140.9,293.1,"3,499.4",780.0,"2,586.6",132.8,LA,Baton Rouge
+"Battle Creek, MI M.S.A.",559.3,3.0,104.0,60.9,391.4,"2,838.6",744.2,"2,000.8",93.6,MI,Battle Creek
+"Bay City, MI M.S.A.",283.4,0.0,80.3,36.8,166.3,"2,100.4",497.0,"1,520.2",83.1,MI,Bay City
+"Beaumont-Port Arthur, TX M.S.A.",522.2,6.9,42.5,121.0,351.8,"2,818.0",783.5,"1,865.8",168.7,TX,Beaumont
+"Beckley, WV M.S.A.",440.3,6.5,40.8,84.8,308.2,"3,027.0",826.9,"2,059.0",141.1,WV,Beckley
+"Bellingham, WA M.S.A.",195.4,2.8,42.7,29.9,120.0,"2,960.8",539.2,"2,293.5",128.1,WA,Bellingham
+"Bend-Redmond, OR M.S.A.",176.8,1.7,38.3,18.9,117.9,"2,364.1",299.3,"1,967.5",97.3,OR,Bend
+"Billings, MT M.S.A.",361.0,5.9,48.5,44.4,262.2,"3,694.3",465.8,"2,695.9",532.7,MT,Billings
+"Binghamton, NY M.S.A.",274.7,2.8,71.6,62.7,137.6,"2,534.1",410.7,"2,070.9",52.5,NY,Binghamton
+"Birmingham-Hoover, AL M.S.A.",682.0,11.1,46.2,157.7,467.1,"3,344.9",817.6,"2,262.0",265.3,AL,Birmingham
+"Bismarck, ND M.S.A.",227.1,3.1,37.1,13.1,173.8,"1,667.6",188.5,"1,320.1",159.1,ND,Bismarck
+"Bloomington, IL M.S.A.",252.0,0.0,61.8,32.0,158.2,"1,668.6",322.2,"1,278.3",68.1,IL,Bloomington
+"Bloomington, IN M.S.A.",277.7,1.8,44.8,47.2,183.9,"2,557.1",492.5,"1,907.3",157.3,IN,Bloomington
+"Bloomsburg-Berwick, PA M.S.A",152.7,1.2,22.2,7.0,122.4,"1,325.8",240.2,"1,057.6",28.0,PA,Bloomsburg
+"Boise City, ID M.S.A.",233.9,1.8,49.3,13.7,169.1,"1,725.3",315.3,"1,286.4",123.6,ID,Boise
+"Boulder, CO M.S.A.3",,0.9,67.4,22.6,,"2,134.8",331.0,"1,689.0",114.7,CO,Boulder
+"Bowling Green, KY M.S.A.",173.4,0.6,44.2,52.0,76.5,"2,405.6",477.2,"1,784.9",143.5,KY,Bowling Green
+"Bremerton-Silverdale, WA M.S.A.",255.7,3.1,46.9,37.1,168.5,"2,746.5",567.0,"1,984.0",195.5,WA,Bremerton
+"Bridgeport-Stamford-Norwalk, CT M.S.A.",201.5,2.5,21.8,76.9,100.3,"1,473.2",236.6,"1,090.9",145.7,CT,Bridgeport
+"Brownsville-Harlingen, TX M.S.A.",299.8,1.6,44.3,61.5,192.4,"3,229.7",567.9,"2,589.0",72.8,TX,Brownsville
+"Brunswick, GA M.S.A.",358.2,2.6,26.0,83.9,245.7,"3,337.5",827.2,"2,321.6",188.6,GA,Brunswick
+"Buffalo-Cheektowaga-Niagara Falls, NY M.S.A.",401.8,4.4,33.1,132.8,231.5,"2,413.5",474.4,"1,805.7",133.4,NY,Buffalo
+"Burlington, NC M.S.A.",395.3,5.1,19.8,64.4,306.1,"2,475.9",708.4,"1,666.1",101.4,NC,Burlington
+"Burlington-South Burlington, VT M.S.A.",128.5,0.9,23.0,21.7,82.9,"1,955.4",375.4,"1,564.3",15.7,VT,Burlington
+"California-Lexington Park, MD M.S.A.",266.1,0.9,18.0,45.8,201.4,"2,055.1",490.0,"1,503.1",62.0,MD,California
+"Canton-Massillon, OH M.S.A.",323.7,3.2,43.6,91.1,185.9,"2,568.2",652.4,"1,799.4",116.3,OH,Canton
+"Cape Coral-Fort Myers, FL M.S.A.",356.1,4.4,29.5,80.9,241.3,"1,801.2",407.0,"1,270.8",123.4,FL,Cape Coral
+"Cape Girardeau, MO-IL M.S.A.",447.4,3.1,46.8,69.1,328.4,"2,939.6",602.0,"2,176.0",161.7,MO,Cape Girardeau
+"Carson City, NV M.S.A.",314.7,1.8,3.7,36.6,272.6,"1,829.7",336.7,"1,341.2",151.9,NV,Carson City
+"Casper, WY M.S.A.",234.3,1.2,39.9,26.6,166.7,"2,513.4",402.2,"1,984.4",126.8,WY,Casper
+"Cedar Rapids, IA M.S.A.",189.5,3.0,18.8,43.7,123.9,"2,350.4",532.3,"1,681.7",136.4,IA,Cedar Rapids
+"Chambersburg-Waynesboro, PA M.S.A.",159.5,2.0,37.8,43.0,76.8,"1,619.8",307.3,"1,233.1",79.4,PA,Chambersburg
+"Charleston, WV M.S.A.",530.3,8.1,52.9,93.1,376.1,"3,597.1",783.4,"2,533.8",279.8,WV,Charleston
+"Charleston-North Charleston, SC M.S.A.",399.0,8.5,39.0,77.1,274.4,"2,860.1",546.0,"2,081.4",232.6,SC,Charleston
+"Charlottesville, VA M.S.A.",164.6,1.3,35.5,31.5,96.3,"1,514.5",252.2,"1,199.2",63.0,VA,Charlottesville
+"Chattanooga, TN-GA M.S.A.",529.9,5.8,36.1,81.1,406.9,"3,418.3",662.9,"2,476.1",279.3,TN,Chattanooga
+"Cheyenne, WY M.S.A.",177.4,7.2,17.5,9.3,143.4,"2,581.9",443.6,"1,997.0",141.3,WY,Cheyenne
+"Chicago-Naperville-Elgin, IL-IN-WI M.S.A.",377.6,7.1,30.8,137.1,202.6,"2,013.9",328.9,"1,520.2",164.8,IL,Chicago
+"Chicago-Naperville-Arlington Heights, IL M.D.",430.3,7.7,32.8,160.8,228.9,"2,077.3",339.2,"1,554.1",183.9,IL,Chicago
+"Elgin, IL M.D.",189.4,1.6,28.5,37.2,122.0,"1,342.2",188.1,"1,112.0",42.1,IL,Elgin
+"Gary, IN M.D.",268.9,11.9,19.3,91.7,146.0,"2,560.7",440.2,"1,916.3",204.2,IN,Gary
+"Lake County-Kenosha County, IL-WI M.D.",158.9,2.2,24.0,46.9,85.9,"1,527.6",254.9,"1,212.2",60.5,IL,Kenosha
+"Chico, CA M.S.A.",345.6,3.1,52.4,65.3,224.8,"3,350.4",843.5,"2,086.3",420.6,CA,Chico
+"Cincinnati, OH-KY-IN M.S.A.",259.4,4.6,37.2,104.4,113.1,"2,781.0",576.7,"2,077.8",126.5,OH,Cincinnati
+"Clarksville, TN-KY M.S.A.",404.7,6.0,34.7,48.8,315.2,"2,410.7",488.2,"1,815.0",107.5,TN,Clarksville
+"Cleveland, TN M.S.A.",483.1,6.6,25.7,40.6,410.2,"3,323.9",615.7,"2,462.0",246.1,TN,Cleveland
+"Coeur d'Alene, ID M.S.A.",259.6,1.3,45.4,22.0,190.9,"2,176.1",465.8,"1,592.9",117.4,ID,Coeur d'Alene
+"College Station-Bryan, TX M.S.A.",315.5,4.5,59.9,46.2,204.9,"2,544.7",451.9,"1,982.6",110.1,TX,College Station
+"Colorado Springs, CO M.S.A.",359.3,3.7,66.0,58.1,231.5,"2,849.9",432.9,"2,135.2",281.7,CO,Colorado Springs
+"Columbia, MO M.S.A.",430.2,3.4,53.6,90.2,283.0,"2,684.6",582.6,"1,933.7",168.3,MO,Columbia
+"Columbia, SC M.S.A.",650.6,6.9,49.7,99.3,494.7,"3,464.0",627.8,"2,466.4",369.8,SC,Columbia
+"Columbus, GA-AL M.S.A.",468.7,6.9,37.3,195.3,229.2,"4,340.7","1,019.8","2,914.0",406.9,GA,Columbus
+"Columbus, IN M.S.A.",108.6,1.2,33.3,24.7,49.4,"3,286.7",459.1,"2,582.0",245.6,IN,Columbus
+"Columbus, OH M.S.A.2",298.0,4.7,56.9,134.7,101.7,"2,869.3",588.6,"2,082.9",197.8,OH,Columbus
+"Corpus Christi, TX M.S.A.",605.4,5.1,74.6,95.5,430.1,"3,370.5",697.4,"2,521.4",151.7,TX,Corpus Christi
+"Corvallis, OR M.S.A.",117.2,2.3,40.2,19.5,55.1,"2,643.6",358.5,"2,195.5",89.6,OR,Corvallis
+"Crestview-Fort Walton Beach-Destin, FL M.S.A.",371.7,4.9,34.7,36.6,295.5,"2,374.2",469.3,"1,800.8",104.0,FL,Fort Walton Beach
+"Cumberland, MD-WV M.S.A.",275.2,4.0,33.1,61.3,176.8,"2,732.0",591.6,"2,068.1",72.3,MD,Cumberland
+"Dallas-Fort Worth-Arlington, TX M.S.A.2",337.6,4.0,41.3,112.4,179.8,"2,554.3",503.1,"1,792.5",258.7,TX,Dallas
+"Dallas-Plano-Irving, TX M.D.",330.6,4.4,38.5,129.7,158.1,"2,434.0",495.6,"1,647.9",290.5,TX,Dallas
+"Fort Worth-Arlington, TX M.D.2",351.2,3.4,46.8,78.6,222.4,"2,790.9",517.8,"2,077.0",196.2,TX,Fort Worth
+"Dalton, GA M.S.A.",265.8,2.1,32.1,20.2,211.4,"2,767.4",618.8,"1,986.1",162.5,GA,Dalton
+"Danville, IL M.S.A.",780.3,0.0,121.4,122.7,536.2,"3,664.8","1,244.4","2,290.2",130.3,IL,Danville
+"Daphne-Fairhope-Foley, AL M.S.A.",195.3,1.5,21.5,36.7,135.6,"2,064.5",357.4,"1,627.3",79.8,AL,Daphne
+"Davenport-Moline-Rock Island, IA-IL M.S.A.",386.1,2.6,58.7,65.2,259.6,"2,510.3",492.8,"1,883.7",133.8,IA,Davenport
+"Dayton, OH M.S.A.",305.4,4.6,58.5,114.1,128.2,"2,919.1",710.0,"2,028.2",181.0,OH,Dayton
+"Decatur, AL M.S.A.",221.4,3.9,24.2,37.3,155.9,"2,354.9",573.8,"1,631.7",149.4,AL,Decatur
+"Decatur, IL M.S.A.",400.0,5.6,38.1,117.2,239.1,"2,618.7",671.7,"1,869.8",77.2,IL,Decatur
+"Deltona-Daytona Beach-Ormond Beach, FL M.S.A.",449.0,3.9,29.0,61.5,354.6,"2,861.8",517.4,"2,152.7",191.7,FL,Daytona Beach
+"Denver-Aurora-Lakewood, CO M.S.A.3, 4",362.3,3.8,63.6,84.8,210.0,,,,388.3,CO,Denver
+"Des Moines-West Des Moines, IA M.S.A.",367.5,3.4,37.3,54.0,272.8,"2,349.8",525.3,"1,609.6",215.0,IA,Des Moines
+"Detroit-Warren-Dearborn, MI M.S.A.",498.1,8.9,45.4,120.7,323.0,"2,008.4",425.3,"1,326.5",256.6,MI,Detroit
+"Detroit-Dearborn-Livonia, MI M.D.",901.5,19.3,57.2,247.0,577.9,"2,935.8",700.9,"1,769.3",465.7,MI,Detroit
+"Warren-Troy-Farmington Hills, MI M.D.",220.6,1.6,37.4,33.9,147.7,"1,371.0",235.8,"1,022.4",112.8,MI,Warren
+"Dothan, AL M.S.A.",349.6,3.4,35.7,49.9,260.7,"2,554.0",641.4,"1,771.8",140.8,AL,Dothan
+"Dover, DE M.S.A.",471.0,6.3,49.9,67.6,347.2,"2,598.5",366.1,"2,151.6",80.8,DE,Dover
+"Dubuque, IA M.S.A.",186.5,5.2,33.0,28.9,119.5,"2,294.7",721.3,"1,499.2",74.2,IA,Dubuque
+"Duluth, MN-WI M.S.A.",242.8,1.4,54.3,29.3,157.8,"3,171.0",558.8,"2,452.6",159.6,MN,Duluth
+"East Stroudsburg, PA M.S.A.",191.1,1.2,36.9,62.3,90.7,"2,264.1",511.0,"1,696.3",56.8,PA,East Stroudsburg
+"Eau Claire, WI M.S.A.",129.1,0.0,21.1,12.1,95.9,"1,669.1",278.7,"1,305.4",85.1,WI,Eau Claire
+"El Centro, CA M.S.A.",414.9,1.1,16.1,72.8,324.9,"3,457.8",773.2,"2,330.7",353.8,CA,El Centro
+"Elizabethtown-Fort Knox, KY M.S.A.",104.7,3.3,22.4,21.1,58.0,"1,232.2",272.0,904.2,56.0,KY,Elizabethtown
+"Elkhart-Goshen, IN M.S.A.",400.1,2.0,24.6,63.6,309.9,"1,992.4",422.2,"1,398.7",171.5,IN,Elkhart
+"Elmira, NY M.S.A.",182.1,2.3,30.9,48.1,100.8,"1,996.4",315.0,"1,635.6",45.8,NY,Elmira
+"El Paso, TX M.S.A.",354.3,2.7,43.7,52.6,255.3,"1,825.1",220.8,"1,491.7",112.6,TX,El Paso
+"Enid, OK M.S.A.",284.0,1.6,48.6,31.4,202.4,"3,163.0",731.1,"2,304.8",127.1,OK,Enid
+"Erie, PA M.S.A.",234.4,4.0,33.8,61.6,135.0,"2,052.0",444.6,"1,540.8",66.6,PA,Erie
+"Eugene, OR M.S.A.",329.7,3.6,43.1,56.6,226.4,"3,285.8",548.6,"2,498.8",238.3,OR,Eugene
+"Evansville, IN-KY M.S.A.",336.6,2.5,34.8,80.4,218.8,"2,872.4",521.3,"2,188.0",163.1,IN,Evansville
+"Fairbanks, AK M.S.A.",484.7,2.9,45.9,77.4,358.5,"3,946.4",458.9,"3,146.2",341.3,AK,Fairbanks
+"Fargo, ND-MN M.S.A.",249.3,2.6,49.8,27.9,169.1,"2,403.4",451.8,"1,766.2",185.4,ND,Fargo
+"Farmington, NM M.S.A.",443.0,4.1,91.9,45.1,301.9,"2,213.3",405.3,"1,631.7",176.4,NM,Farmington
+"Flagstaff, AZ M.S.A.",362.6,2.2,61.3,36.0,263.1,"2,792.3",287.6,"2,441.3",63.4,AZ,Flagstaff
+"Flint, MI M.S.A.",581.4,12.9,64.6,107.5,396.3,"2,485.7",707.2,"1,632.9",145.6,MI,Flint
+"Florence-Muscle Shoals, AL M.S.A.",305.0,1.4,36.6,40.0,227.1,"2,442.4",588.4,"1,681.8",172.2,AL,Florence
+"Fond du Lac, WI M.S.A.",214.3,1.0,51.1,12.8,149.4,"1,380.2",179.9,"1,146.3",54.1,WI,Fond du Lac
+"Fort Collins, CO M.S.A.",199.1,2.1,27.4,21.1,148.4,"2,229.0",281.4,"1,819.4",128.2,CO,Fort Collins
+"Fort Smith, AR-OK M.S.A.",446.0,3.2,46.9,52.3,343.6,"3,377.0",728.8,"2,476.4",171.8,AR,Fort Smith
+"Fort Wayne, IN M.S.A.",288.0,6.5,30.5,122.2,128.8,"2,328.3",434.7,"1,782.3",111.3,IN,Fort Wayne
+"Fresno, CA M.S.A.",537.3,6.1,32.5,136.9,361.8,"3,439.4",751.3,"2,196.6",491.5,CA,Fresno
+"Gadsden, AL M.S.A.",532.3,3.9,63.0,83.4,382.0,"3,998.7",878.5,"2,848.7",271.5,AL,Gadsden
+"Gainesville, FL M.S.A.",582.9,1.4,67.9,116.9,396.7,"2,790.5",473.6,"2,159.5",157.4,FL,Gainesville
+"Gainesville, GA M.S.A.",188.8,2.6,22.2,35.6,128.4,"1,845.1",373.5,"1,328.8",142.9,GA,Gainesville
+"Gettysburg, PA M.S.A.",135.6,0.0,34.4,13.8,87.5,983.9,243.8,705.7,34.4,PA,Gettysburg
+"Glens Falls, NY M.S.A.4",170.5,0.8,67.9,9.5,92.4,,173.7,,21.3,NY,Glens Falls
+"Goldsboro, NC M.S.A.",494.3,8.8,3.2,106.6,375.7,"3,604.3","1,099.2","2,337.7",167.4,NC,Goldsboro
+"Grand Forks, ND-MN M.S.A.",243.8,2.9,60.5,26.3,154.1,"2,108.0",304.2,"1,655.6",148.2,ND,Grand Forks
+"Grand Island, NE M.S.A.",215.2,0.0,59.6,15.2,140.3,"2,185.8",364.9,"1,699.3",121.6,NE,Grand Island
+"Grand Junction, CO M.S.A.",327.6,1.3,85.1,25.5,215.7,"2,828.8",448.2,"2,209.7",170.9,CO,Grand Junction
+"Grand Rapids-Wyoming, MI M.S.A.",329.0,1.7,75.1,59.8,192.3,"1,618.2",301.4,"1,236.4",80.4,MI,Grand Rapids
+"Grants Pass, OR M.S.A.",243.2,8.3,30.8,42.7,161.3,"2,829.1",503.0,"1,959.6",366.5,OR,Grants Pass
+"Great Falls, MT M.S.A.",250.6,7.3,23.0,35.1,185.2,"3,487.1",461.2,"2,856.5",169.5,MT,Great Falls
+"Greeley, CO M.S.A.",270.6,1.8,47.0,25.3,196.5,"1,695.9",300.4,"1,260.7",134.8,CO,Greeley
+"Green Bay, WI M.S.A.",196.6,1.3,25.0,24.7,145.7,"1,453.9",217.8,"1,177.3",58.8,WI,Green Bay
+"Greensboro-High Point, NC M.S.A.",398.2,5.6,21.1,114.9,256.5,"2,968.6",760.0,"2,071.6",137.0,NC,Greensboro
+"Greenville, NC M.S.A.",433.9,7.9,31.1,97.2,297.8,"2,817.8",687.1,"2,055.0",75.7,NC,Greenville
+"Gulfport-Biloxi-Pascagoula, MS M.S.A.",233.3,6.7,36.8,67.1,122.7,"3,707.4",828.1,"2,665.8",213.5,MS,Gulfport
+"Hagerstown-Martinsburg, MD-WV M.S.A.",260.7,4.2,20.7,68.1,167.7,"2,123.7",494.9,"1,515.0",113.7,MD,Hagerstown
+"Hammond, LA M.S.A.",769.4,3.9,43.7,141.9,580.0,"4,770.9","1,374.3","3,086.2",310.3,LA,Hammond
+"Hanford-Corcoran, CA M.S.A.",463.9,3.3,41.4,68.8,350.3,"2,607.6",532.7,"1,713.2",361.6,CA,Hanford
+"Harrisonburg, VA M.S.A.",145.8,0.8,36.5,11.4,97.2,"1,555.7",302.3,"1,200.9",52.4,VA,Harrisonburg
+"Hartford-West Hartford-East Hartford, CT M.S.A.",252.8,4.4,22.5,94.7,131.2,"2,175.4",325.4,"1,637.0",213.0,CT,Hartford
+"Hattiesburg, MS M.S.A.",157.7,4.0,23.4,32.7,97.6,"3,024.9",790.6,"2,162.8",71.5,MS,Hattiesburg
+"Hilton Head Island-Bluffton-Beaufort, SC M.S.A.",349.4,13.5,44.3,73.3,218.3,"2,403.8",497.8,"1,770.5",135.4,SC,Bluffton
+"Hinesville, GA M.S.A.",304.4,1.2,10.7,60.9,231.6,"2,270.3",490.6,"1,656.8",122.9,GA,
+"Homosassa Springs, FL M.S.A.",308.7,1.4,35.8,28.6,242.8,"1,438.8",301.5,"1,055.6",81.6,FL,Spring
+"Houma-Thibodaux, LA M.S.A.",446.1,8.0,26.4,60.9,350.7,"3,443.6",651.9,"2,643.9",147.8,LA,Houma
+"Houston-The Woodlands-Sugar Land, TX M.S.A.3",566.6,6.9,37.3,228.9,293.5,,596.8,,367.2,TX,Houston
+"Huntsville, AL M.S.A.",485.0,6.1,48.2,102.2,328.5,"2,954.6",639.0,"2,086.4",229.1,AL,Huntsville
+"Idaho Falls, ID M.S.A.",183.9,1.4,31.5,6.4,144.6,"1,822.8",342.1,"1,365.5",115.2,ID,Idaho Falls
+"Indianapolis-Carmel-Anderson, IN M.S.A.",674.2,8.2,44.1,211.6,410.2,"3,207.8",703.3,"2,172.6",331.9,IN,Indianapolis
+"Iowa City, IA M.S.A.",263.4,0.6,53.8,28.1,181.0,"1,981.6",359.5,"1,549.2",72.9,IA,Iowa City
+"Jackson, MI M.S.A.",468.4,3.8,90.8,63.9,310.0,"2,271.9",370.7,"1,816.0",85.2,MI,Jackson
+"Jackson, MS M.S.A.",359.4,11.6,31.0,152.7,164.1,"2,687.4",682.2,"1,778.0",227.2,MS,Jackson
+"Jackson, TN M.S.A.",734.5,6.9,43.0,112.8,571.8,"3,067.1",848.1,"2,064.7",154.3,TN,Jackson
+"Jacksonville, FL M.S.A.",493.7,7.5,44.4,110.1,331.7,"2,951.5",553.4,"2,203.5",194.5,FL,Jacksonville
+"Jacksonville, NC M.S.A.",174.6,4.2,25.8,34.3,110.2,"2,539.2",663.9,"1,799.8",75.4,NC,Jacksonville
+"Janesville-Beloit, WI M.S.A.",238.7,3.7,29.1,47.1,158.7,"2,347.4",392.4,"1,854.0",101.0,WI,Janesville
+"Jefferson City, MO M.S.A.",258.7,1.3,31.8,38.4,187.2,"1,919.1",346.0,"1,469.9",103.2,MO,Jefferson City
+"Johnson City, TN M.S.A.",302.0,5.5,19.8,30.3,246.5,"2,428.9",475.1,"1,851.2",102.7,TN,Johnson City
+"Johnstown, PA M.S.A.",199.6,4.4,19.1,32.3,143.8,"1,633.9",292.0,"1,303.0",38.9,PA,Johnstown
+"Jonesboro, AR M.S.A.",438.4,3.9,78.0,54.6,301.9,"3,292.9",772.3,"2,406.7",113.9,AR,Jonesboro
+"Joplin, MO M.S.A.",331.3,5.1,52.8,60.1,213.3,"3,875.6",681.9,"2,853.4",340.4,MO,Joplin
+"Kahului-Wailuku-Lahaina, HI M.S.A.",337.7,2.4,57.0,68.5,209.8,"3,641.0",610.6,"2,677.6",352.9,HI,Kahului
+"Kalamazoo-Portage, MI M.S.A.",470.6,3.3,87.2,80.4,299.8,"2,508.8",534.9,"1,858.9",114.9,MI,Kalamazoo
+"Kansas City, MO-KS M.S.A.",535.8,8.4,56.8,123.3,347.3,"2,945.2",557.4,"1,981.1",406.8,MO,Kansas City
+"Kennewick-Richland, WA M.S.A.",182.3,2.9,36.0,27.5,116.0,"2,115.7",392.5,"1,602.2",121.0,WA,Kennewick
+"Killeen-Temple, TX M.S.A.",339.5,5.6,67.4,63.5,203.0,"2,559.9",582.0,"1,855.2",122.8,TX,Killeen
+"Kingsport-Bristol-Bristol, TN-VA M.S.A.",317.7,3.6,36.4,31.2,246.5,"2,401.1",463.1,"1,772.8",165.2,TN,Bristol
+"Kingston, NY M.S.A.",169.3,0.0,53.4,22.8,93.0,"1,496.6",227.7,"1,229.9",39.0,NY,Kingston
+"Knoxville, TN M.S.A.",412.2,3.4,32.7,65.4,310.7,"2,904.4",600.8,"2,099.5",204.2,TN,Knoxville
+"Kokomo, IN M.S.A.",579.7,3.6,30.1,96.4,449.5,"2,309.2",611.0,"1,598.1",100.0,IN,Kokomo
+"La Crosse-Onalaska, WI-MN M.S.A.",116.5,1.5,21.1,13.8,80.1,"2,179.9",316.6,"1,808.0",55.3,WI,La Crosse
+"Lafayette, LA M.S.A.",404.5,7.8,18.4,79.8,298.5,"3,146.1",668.8,"2,253.4",223.8,LA,Lafayette
+"Lafayette-West Lafayette, IN M.S.A.",292.0,1.9,36.0,59.3,194.8,"2,509.3",503.6,"1,847.3",158.4,IN,Lafayette
+"Lake Charles, LA M.S.A.2",628.6,4.4,63.1,95.3,465.9,"4,217.7","1,503.7","2,485.2",228.8,LA,Lake Charles
+"Lake Havasu City-Kingman, AZ M.S.A.",201.0,2.0,26.9,27.9,144.2,"2,877.0",679.2,"2,027.7",170.2,AZ,Lake Havasu City
+"Lakeland-Winter Haven, FL M.S.A.",339.7,3.9,33.1,59.1,243.6,"2,472.1",568.0,"1,733.2",170.9,FL,Lakeland
+"Lancaster, PA M.S.A.",180.4,3.0,42.5,51.1,83.9,"1,422.0",212.1,"1,164.3",45.5,PA,Lancaster
+"Lansing-East Lansing, MI M.S.A.",425.0,3.6,70.7,70.5,280.2,"1,873.3",423.5,"1,319.3",130.5,MI,Lansing
+"Laredo, TX M.S.A.",385.6,2.9,54.2,61.9,266.5,"3,287.4",419.5,"2,746.9",120.9,TX,Laredo
+"Las Cruces, NM M.S.A.",261.3,2.8,38.8,31.8,187.9,"3,085.5",561.4,"2,353.5",170.6,NM,Las Cruces
+"Las Vegas-Henderson-Paradise, NV M.S.A.",815.0,6.9,63.3,273.0,471.8,"2,817.8",868.9,"1,499.1",449.7,NV,Las Vegas
+"Lawton, OK M.S.A.",744.2,7.6,46.5,163.2,526.9,"3,636.9","1,008.7","2,422.3",205.9,OK,Lawton
+"Lebanon, PA M.S.A.",185.4,2.9,18.3,31.4,132.9,"1,549.1",256.2,"1,208.2",84.7,PA,Lebanon
+"Lewiston, ID-WA M.S.A.",213.8,6.4,54.3,28.7,124.5,"3,019.1",647.9,"2,176.6",194.7,ID,Lewiston
+"Lewiston-Auburn, ME M.S.A.",138.0,0.0,39.2,28.9,69.9,"1,774.1",353.3,"1,349.9",70.9,ME,Lewiston
+"Lexington-Fayette, KY M.S.A.",256.3,4.0,43.7,118.8,89.8,"3,487.4",698.2,"2,538.9",250.3,KY,Lexington
+"Lima, OH M.S.A.",388.5,2.9,57.3,97.4,231.0,"3,369.8",815.2,"2,429.5",125.1,OH,Lima
+"Lincoln, NE M.S.A.",330.0,0.3,65.3,67.1,197.3,"2,954.3",442.9,"2,391.6",119.7,NE,Lincoln
+"Little Rock-North Little Rock-Conway, AR M.S.A.",724.7,8.6,52.3,136.7,527.2,"4,125.5",809.2,"3,023.2",293.1,AR,Little Rock
+"Logan, UT-ID M.S.A.",61.6,0.8,33.1,2.3,25.5,"1,201.2",208.1,950.3,42.8,UT,Logan
+"Longview, TX M.S.A.",430.8,10.1,52.1,71.8,296.8,"3,324.2",749.1,"2,335.1",240.1,TX,Longview
+"Longview, WA M.S.A.",301.6,2.0,65.4,52.7,181.6,"3,182.4",624.8,"2,284.3",273.3,WA,Longview
+"Los Angeles-Long Beach-Anaheim, CA M.S.A.",431.9,4.9,35.1,149.1,242.8,"2,308.1",418.5,"1,496.1",393.5,CA,Los Angeles
+"Anaheim-Santa Ana-Irvine, CA M.D.",227.4,1.8,24.4,70.4,130.7,"2,148.9",330.6,"1,545.3",273.0,CA,Anaheim
+"Los Angeles-Long Beach-Glendale, CA M.D.",495.7,5.8,38.4,173.7,277.8,"2,357.7",445.9,"1,480.8",431.1,CA,Los Angeles
+"Louisville/Jefferson County, KY-IN M.S.A.",422.9,7.5,26.2,143.8,245.4,"3,258.0",683.7,"2,235.8",338.5,KY,Louisville
+"Lubbock, TX M.S.A.",825.4,5.5,70.7,147.8,601.4,"4,529.4",966.8,"3,223.1",339.6,TX,Lubbock
+"Lynchburg, VA M.S.A.",180.4,3.5,29.0,27.9,120.0,"1,455.2",230.3,"1,155.7",69.3,VA,Lynchburg
+"Macon-Bibb County, GA M.S.A.",319.9,9.5,24.3,118.5,167.5,"3,578.0",858.6,"2,429.0",290.4,GA,Macon
+"Madera, CA M.S.A.",552.6,2.6,24.5,79.9,445.7,"2,384.8",714.9,"1,327.3",342.6,CA,Madera
+"Madison, WI M.S.A.",211.9,2.7,29.7,46.8,132.7,"1,956.7",310.1,"1,580.9",65.7,WI,Madison
+"Manchester-Nashua, NH M.S.A.",281.4,3.2,46.7,70.3,161.1,"1,923.7",287.0,"1,547.0",89.8,NH,Manchester
+"Manhattan, KS M.S.A.",229.9,2.0,36.3,25.2,166.3,"1,687.7",378.1,"1,216.9",92.8,KS,Manhattan
+"Mankato-North Mankato, MN M.S.A.",152.8,0.0,37.4,22.3,93.1,"2,324.8",401.8,"1,821.8",101.2,MN,Mankato
+"Mansfield, OH M.S.A.",261.0,2.5,76.6,79.9,102.1,"4,007.8","1,086.2","2,826.1",95.5,OH,Mansfield
+"McAllen-Edinburg-Mission, TX M.S.A.2",298.1,3.8,41.1,47.3,205.9,"2,899.9",502.4,"2,266.1",131.4,TX,McAllen
+"Medford, OR M.S.A.",323.9,2.3,30.9,38.9,251.7,"3,842.9",495.0,"3,089.6",258.3,OR,Medford
+"Memphis, TN-MS-AR M.S.A.","1,038.0",11.5,52.3,259.9,714.2,"3,959.3","1,047.3","2,644.7",267.4,TN,Memphis
+"Merced, CA M.S.A.",621.1,10.1,29.8,96.8,484.4,"2,951.9",685.8,"1,701.6",564.5,CA,Merced
+"Miami-Fort Lauderdale-West Palm Beach, FL M.S.A.",510.1,6.6,30.9,156.8,315.8,"3,285.8",536.1,"2,470.0",279.7,FL,Miami
+"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL M.D.",405.5,4.5,31.0,129.6,240.5,"3,029.9",537.3,"2,234.6",258.0,FL,Fort Lauderdale
+"Miami-Miami Beach-Kendall, FL M.D.",610.3,8.0,27.8,197.5,377.0,"3,670.5",534.9,"2,811.8",323.9,FL,Miami
+"West Palm Beach-Boca Raton-Delray Beach, FL M.D.",459.2,6.8,36.7,115.9,299.8,"2,895.1",536.8,"2,133.6",224.6,FL,West Palm Beach
+"Michigan City-La Porte, IN M.S.A.",156.2,3.6,24.2,52.1,76.3,"2,917.4",540.6,"2,217.9",158.9,IN,Michigan City
+"Midland, MI M.S.A.",143.9,2.4,66.0,3.6,71.9,"1,108.0",206.2,881.3,20.4,MI,Midland
+"Midland, TX M.S.A.",322.3,5.4,28.2,47.3,241.4,"2,590.8",524.1,"1,891.7",174.9,TX,Midland
+"Milwaukee-Waukesha-West Allis, WI M.S.A.",680.1,9.8,36.6,265.8,367.9,"2,759.0",473.4,"1,746.2",539.4,WI,Milwaukee
+"Minneapolis-St. Paul-Bloomington, MN-WI M.S.A.",285.2,2.7,40.8,97.1,144.6,"2,367.5",353.6,"1,842.4",171.4,MN,Minneapolis
+"Missoula, MT M.S.A.",425.2,3.5,82.7,26.4,312.5,"3,059.0",445.4,"2,475.4",138.2,MT,Missoula
+"Mobile, AL M.S.A.5",530.7,10.6,43.9,123.4,352.8,"3,670.4",828.6,"2,587.0",254.8,AL,Mobile
+"Modesto, CA M.S.A.",577.3,7.3,30.0,152.5,387.5,"3,692.2",725.5,"2,274.2",692.4,CA,Modesto
+"Monroe, LA M.S.A.2","1,160.0",15.1,41.3,122.2,981.3,"4,701.9","1,179.5","3,356.0",166.3,LA,Monroe
+"Monroe, MI M.S.A.",236.3,2.0,69.6,30.1,134.6,"1,692.6",447.9,"1,154.3",90.4,MI,Monroe
+"Montgomery, AL M.S.A.",400.7,10.5,32.3,127.9,230.1,"3,426.9",928.6,"2,221.0",277.4,AL,Montgomery
+"Morgantown, WV M.S.A.",267.6,2.2,46.2,38.2,181.0,"1,670.5",436.4,"1,153.3",80.8,WV,Morgantown
+"Morristown, TN M.S.A.",361.8,2.6,31.0,23.3,304.9,"2,571.9",478.9,"1,918.1",174.8,TN,Morristown
+"Mount Vernon-Anacortes, WA M.S.A.",177.5,2.5,29.6,41.1,104.4,"3,877.7",788.2,"2,877.5",212.1,WA,Mount Vernon
+"Muskegon, MI M.S.A.",415.0,4.6,86.4,66.7,257.4,"3,267.0",536.2,"2,572.5",158.2,MI,Muskegon
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC M.S.A.",390.2,14.2,62.7,75.3,237.9,"3,794.8",773.4,"2,745.7",275.7,SC,Myrtle Beach
+"Napa, CA M.S.A.",411.1,2.1,43.4,38.5,327.1,"1,811.2",418.8,"1,227.1",165.3,CA,Napa
+"Naples-Immokalee-Marco Island, FL M.S.A.",286.7,0.6,29.7,46.7,209.8,"1,347.7",264.9,"1,007.3",75.5,FL,Naples
+"Nashville-Davidson–Murfreesboro–Franklin, TN M.S.A.",612.7,5.5,48.1,128.8,430.2,"2,580.2",506.7,"1,929.5",144.0,TN,Nashville
+"New Bern, NC M.S.A.",184.9,5.5,12.5,32.9,134.0,"2,029.5",600.2,"1,362.7",66.6,NC,New Bern
+"New Orleans-Metairie, LA M.S.A.",534.4,16.3,47.7,168.0,302.5,"3,030.2",532.2,"2,196.4",301.6,LA,New Orleans
+"Niles-Benton Harbor, MI M.S.A.",386.1,5.2,86.5,68.4,226.0,"1,719.2",346.7,"1,293.1",79.4,MI,Niles
+"North Port-Sarasota-Bradenton, FL M.S.A.",416.6,4.1,40.4,64.2,307.9,"2,334.2",482.5,"1,751.4",100.2,FL,Sarasota
+"Norwich-New London, CT M.S.A.",323.7,4.1,39.2,69.4,211.0,"2,040.0",297.6,"1,631.7",110.7,CT,Norwich
+"Ocala, FL M.S.A.",363.1,2.9,33.2,57.5,269.5,"2,096.6",501.9,"1,496.4",98.3,FL,Ocala
+"Ocean City, NJ M.S.A.2",230.2,1.1,22.2,53.8,153.1,"3,288.9",622.9,"2,607.9",58.1,NJ,Ocean
+"Odessa, TX M.S.A.","1,070.1",7.6,55.4,126.6,880.5,"4,233.9",801.2,"2,937.7",495.1,TX,Odessa
+"Ogden-Clearfield, UT M.S.A.2, 3",157.6,2.3,52.1,25.5,77.6,,,"1,682.2",145.5,UT,Ogden
+"Oklahoma City, OK M.S.A.",462.0,6.8,52.4,107.1,295.6,"3,055.9",702.3,"2,048.4",305.2,OK,Oklahoma City
+"Olympia-Tumwater, WA M.S.A.",242.5,1.1,37.4,43.7,160.3,"2,902.7",648.6,"2,010.9",243.2,WA,Olympia
+"Omaha-Council Bluffs, NE-IA M.S.A.2",325.6,5.5,33.2,81.9,204.9,"2,668.5",360.7,"1,952.7",355.1,NE,Omaha
+"Orlando-Kissimmee-Sanford, FL M.S.A.",529.7,5.1,49.5,110.4,364.8,"3,105.8",728.1,"2,168.4",209.2,FL,Orlando
+"Oshkosh-Neenah, WI M.S.A.",177.6,2.4,17.1,24.1,134.1,"1,683.8",282.9,"1,345.0",55.9,WI,Oshkosh
+"Owensboro, KY M.S.A.",136.1,0.0,37.7,44.5,53.9,"2,252.4",387.8,"1,747.3",117.3,KY,Owensboro
+"Oxnard-Thousand Oaks-Ventura, CA M.S.A.",255.7,2.8,24.5,79.8,148.6,"2,028.1",353.1,"1,480.6",194.3,CA,Oxnard
+"Palm Bay-Melbourne-Titusville, FL M.S.A.",530.6,4.3,60.0,79.7,386.6,"2,656.1",507.0,"1,976.8",172.3,FL,Melbourne
+"Panama City, FL M.S.A.",518.4,5.0,40.8,81.6,390.9,"3,606.9",659.4,"2,753.5",193.9,FL,Panama City
+"Parkersburg-Vienna, WV M.S.A.",160.4,3.3,31.6,12.0,113.5,"1,902.8",590.3,"1,211.1",101.5,WV,Parkersburg
+"Pensacola-Ferry Pass-Brent, FL M.S.A.",506.7,5.8,49.1,89.3,362.4,"2,941.3",630.0,"2,158.6",152.7,FL,Pensacola
+"Peoria, IL M.S.A.",358.2,4.5,44.8,93.6,215.3,"2,222.7",497.1,"1,653.7",72.0,IL,Peoria
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD M.S.A.2",459.8,7.4,35.2,173.1,244.1,"2,195.8",362.0,"1,687.9",145.9,PA,Philadelphia
+"Camden, NJ M.D.2",272.0,3.6,18.2,93.9,156.3,"2,022.5",426.6,"1,503.3",92.6,NJ,Camden
+"Montgomery County-Bucks County-Chester County, PA M.D.",128.2,1.5,13.1,37.0,76.5,"1,447.2",174.9,"1,219.6",52.7,PA,Montgomery
+"Philadelphia, PA M.D.",861.1,14.8,66.5,351.9,427.9,"2,827.0",450.5,"2,113.2",263.4,PA,Philadelphia
+"Wilmington, DE-MD-NJ M.D.2",502.1,8.2,32.1,152.7,309.1,"2,666.3",497.1,"2,024.8",144.4,DE,Wilmington
+"Phoenix-Mesa-Scottsdale, AZ M.S.A.",388.4,4.5,43.0,103.5,237.4,"2,824.2",571.6,"1,984.2",268.4,AZ,Phoenix
+"Pine Bluff, AR M.S.A",743.9,12.8,53.5,116.7,560.9,"3,788.0","1,258.8","2,298.1",231.2,AR,Pine Bluff
+"Pittsburgh, PA M.S.A.",266.3,4.7,17.6,76.4,167.6,"1,782.9",321.6,"1,389.0",72.3,PA,Pittsburgh
+"Pittsfield, MA M.S.A.",459.7,3.1,55.4,42.9,358.3,"2,003.6",569.0,"1,358.9",75.7,MA,Pittsfield
+"Pocatello, ID M.S.A.",264.3,1.2,31.1,8.4,223.6,"2,665.5",465.2,"2,052.0",148.3,ID,Pocatello
+"Portland-South Portland, ME M.S.A.",134.6,0.8,24.4,35.6,73.8,"1,833.7",325.8,"1,448.0",60.0,ME,Portland
+"Port St. Lucie, FL M.S.A.",286.2,3.1,28.6,54.2,200.3,"1,840.8",338.9,"1,413.5",88.3,FL,Port St Lucie
+"Prescott, AZ M.S.A.",294.0,4.1,25.7,12.2,252.0,"2,036.0",359.5,"1,562.7",113.8,AZ,Prescott
+"Providence-Warwick, RI-MA M.S.A.",333.7,2.2,39.1,65.3,227.2,"1,876.8",385.3,"1,364.1",127.4,RI,Providence
+"Provo-Orem, UT M.S.A.",71.7,0.3,25.2,7.9,38.3,"1,551.5",188.1,"1,275.4",88.0,UT,Provo
+"Pueblo, CO M.S.A.",615.7,8.0,104.9,114.7,388.2,"5,190.6","1,392.1","3,174.8",623.7,CO,Pueblo
+"Punta Gorda, FL M.S.A.",202.2,0.6,18.1,17.5,166.1,"1,509.5",242.4,"1,202.9",64.1,FL,
+"Racine, WI M.S.A.",231.8,2.1,18.5,90.3,121.0,"2,048.0",512.4,"1,466.4",69.2,WI,Racine
+"Rapid City, SD M.S.A.",475.5,6.2,104.7,50.3,314.2,"2,594.3",445.8,"1,948.7",199.8,SD,Rapid City
+"Reading, PA M.S.A.",309.2,3.6,22.7,85.5,197.3,"1,681.6",349.5,"1,231.9",100.2,PA,Reading
+"Redding, CA M.S.A.",776.6,2.8,68.2,100.4,605.2,"3,245.5",694.5,"2,096.8",454.3,CA,Redding
+"Reno, NV M.S.A.",447.7,4.4,50.1,101.5,291.7,"2,592.3",532.8,"1,749.0",310.5,NV,Reno
+"Richmond, VA M.S.A.",236.5,7.5,25.2,77.6,126.3,"2,351.7",387.2,"1,823.2",141.3,VA,Richmond
+"Riverside-San Bernardino-Ontario, CA M.S.A.",378.0,4.4,24.4,113.1,236.1,"2,789.3",624.3,"1,654.5",510.5,CA,Riverside
+"Roanoke, VA M.S.A.",213.9,6.4,33.2,28.4,146.0,"2,128.6",268.1,"1,760.2",100.4,VA,Roanoke
+"Rochester, MN M.S.A.",127.6,0.5,29.0,25.7,72.4,"1,514.4",307.9,"1,142.0",64.5,MN,Rochester
+"Rochester, NY M.S.A.",280.7,3.8,44.4,82.1,150.4,"2,107.6",388.3,"1,609.4",109.9,NY,Rochester
+"Rockford, IL M.S.A.",818.8,6.8,63.0,170.9,578.1,"2,650.9",625.5,"1,834.1",191.2,IL,Rockford
+"Rocky Mount, NC M.S.A.",423.0,13.5,19.5,94.3,295.7,"2,707.6",857.4,"1,750.5",99.7,NC,Rocky Mount
+"Rome, GA M.S.A.",350.5,11.4,38.5,77.0,223.6,"3,253.6",649.1,"2,395.5",209.1,GA,Rome
+"Sacramento–Roseville–Arden-Arcade, CA M.S.A.",445.0,4.9,25.8,130.7,283.6,"2,579.8",539.8,"1,663.8",376.1,CA,Sacramento
+"Saginaw, MI M.S.A.",604.5,4.1,83.6,71.2,445.6,"1,973.4",545.2,"1,325.1",103.2,MI,Saginaw
+"Salem, OR M.S.A.",240.4,1.7,22.7,43.0,173.1,"2,949.5",400.5,"2,239.4",309.5,OR,Salem
+"Salinas, CA M.S.A.",443.2,13.8,36.8,128.1,264.5,"2,193.0",416.8,"1,125.1",651.1,CA,Salinas
+"Salisbury, MD-DE M.S.A.",388.5,3.3,38.9,77.5,268.8,"2,870.8",657.1,"2,139.7",73.9,MD,Salisbury
+"Salt Lake City, UT M.S.A.",392.2,2.6,71.6,91.5,226.5,,,"3,574.9",565.2,UT,Salt Lake City
+"San Angelo, TX M.S.A.",329.3,3.3,67.5,25.0,233.4,"3,750.2",731.0,"2,784.1",235.1,TX,San Angelo
+"San Antonio-New Braunfels, TX M.S.A.",436.9,5.4,59.0,94.2,278.3,"3,952.6",657.4,"2,982.9",312.4,TX,San Antonio
+"San Diego-Carlsbad, CA M.S.A.",331.8,2.5,33.3,84.9,211.1,"1,922.1",325.4,"1,296.6",300.0,CA,San Diego
+"San Francisco-Oakland-Hayward, CA M.S.A.",484.9,5.3,30.9,235.2,213.5,"3,600.5",517.6,"2,451.3",631.7,CA,San Francisco
+"Oakland-Hayward-Berkeley, CA M.D.",491.1,6.4,29.5,239.7,215.5,"3,361.8",523.4,"2,119.9",718.6,CA,Oakland
+"San Francisco-Redwood City-South San Francisco, CA M.D.",520.7,4.1,34.7,256.4,225.5,"4,259.6",524.4,"3,190.4",544.9,CA,San Francisco
+"San Rafael, CA M.D.",197.3,2.3,21.7,56.4,116.9,"2,013.5",414.1,"1,342.4",257.1,CA,San Rafael
+"San Jose-Sunnyvale-Santa Clara, CA M.S.A.",251.5,2.3,29.6,80.1,139.6,"2,316.7",438.9,"1,406.3",471.4,CA,San Jose
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA M.S.A.",403.3,1.1,29.2,27.4,345.7,"2,413.3",480.8,"1,744.4",188.1,CA,San Luis Obispo
+"Santa Cruz-Watsonville, CA M.S.A.",427.8,2.2,43.1,101.9,280.5,"3,390.6",534.4,"2,431.0",425.2,CA,Santa Cruz
+"Santa Maria-Santa Barbara, CA M.S.A.",322.2,4.0,43.6,64.1,210.4,"2,105.0",411.5,"1,455.9",237.6,CA,Santa Maria
+"Santa Rosa, CA M.S.A.",376.7,1.8,50.8,59.5,264.6,"1,973.5",347.3,"1,421.5",204.6,CA,Santa Rosa
+"Savannah, GA M.S.A.",400.5,15.0,22.4,157.8,205.2,"3,313.8",684.2,"2,283.9",345.7,GA,Savannah
+"Seattle-Tacoma-Bellevue, WA M.S.A.2",324.1,3.0,31.6,103.8,185.7,"3,852.2",768.1,"2,614.9",469.1,WA,Seattle
+"Seattle-Bellevue-Everett, WA M.D.2",290.0,2.7,27.8,101.1,158.4,"3,865.4",732.3,"2,671.5",461.7,WA,Seattle
+"Tacoma-Lakewood, WA M.D.",441.0,4.0,44.4,113.1,279.5,"3,806.7",891.1,"2,420.8",494.8,WA,Tacoma
+"Sebastian-Vero Beach, FL M.S.A.",265.6,1.4,24.5,27.2,212.6,"2,411.0",480.3,"1,828.8",101.9,FL,San Sebastian
+"Sebring, FL M.S.A.",341.7,5.1,38.5,56.8,241.3,"2,739.4",633.6,"1,994.2",111.5,FL,
+"Sheboygan, WI M.S.A.",174.5,2.6,26.0,16.5,129.4,"1,569.7",159.7,"1,363.9",46.0,WI,
+"Sherman-Denison, TX M.S.A.",327.1,6.4,58.7,49.8,212.2,"2,123.4",496.7,"1,434.6",192.1,TX,Sherman
+"Shreveport-Bossier City, LA M.S.A.",579.7,7.9,44.7,129.7,397.4,"3,596.7",787.9,"2,601.2",207.6,LA,Shreveport
+"Sioux City, IA-NE-SD M.S.A.2",269.5,1.8,37.3,34.9,195.5,"2,735.4",479.2,"2,036.5",219.8,IA,Sioux City
+"Sioux Falls, SD M.S.A.",363.7,1.2,57.9,35.3,269.3,"2,503.3",492.2,"1,826.7",184.4,SD,Sioux Falls
+"South Bend-Mishawaka, IN-MI M.S.A.",354.4,7.2,52.3,134.8,160.1,"3,094.0",749.0,"2,158.5",186.5,IN,South Bend
+"Spartanburg, SC M.S.A.",406.2,7.7,46.6,87.9,264.0,"2,772.3",605.5,"1,998.1",168.7,SC,Spartanburg
+"Spokane-Spokane Valley, WA M.S.A.",304.9,3.8,44.9,85.5,170.7,"4,745.0",922.7,"3,350.0",472.3,WA,Spokane
+"Springfield, IL M.S.A.",720.2,5.2,70.0,131.1,513.9,"3,075.5",669.1,"2,286.6",119.7,IL,Springfield
+"Springfield, MA M.S.A.",529.5,3.5,52.0,120.8,353.2,"2,366.8",529.4,"1,656.2",181.2,MA,Springfield
+"Springfield, MO M.S.A.",621.3,3.3,80.6,110.0,427.3,"4,022.5",695.1,"2,970.4",357.0,MO,Springfield
+"Springfield, OH M.S.A.",298.1,8.8,30.1,130.7,128.5,"3,596.4","1,016.2","2,392.2",188.0,OH,Springfield
+"State College, PA M.S.A.",102.6,1.3,39.4,8.1,53.8,"1,177.4",175.2,980.9,21.3,PA,State College
+"Staunton-Waynesboro, VA M.S.A.",139.4,3.3,28.4,24.2,83.5,"1,483.3",197.0,"1,223.7",62.6,VA,Staunton
+"St. Cloud, MN M.S.A.",173.0,2.1,49.2,30.6,91.2,"2,655.3",332.0,"2,223.8",99.5,MN,St. Cloud
+"St. George, UT M.S.A.",133.3,0.0,37.8,10.9,84.6,"1,676.2",372.4,"1,188.4",115.4,UT,St. George
+"St. Joseph, MO-KS M.S.A.",384.3,9.4,58.8,69.8,246.3,"4,035.8",800.7,"2,832.7",402.3,MO,St Joseph
+"St. Louis, MO-IL M.S.A.2",486.0,10.5,38.5,121.2,315.8,"2,532.7",475.0,"1,833.1",224.6,MO,St. Louis
+"Stockton-Lodi, CA M.S.A.",797.1,8.9,27.4,213.2,547.5,"3,466.1",727.1,"2,180.0",559.0,CA,Stockton
+"Sumter, SC M.S.A.",621.6,6.5,31.4,88.7,495.1,"3,469.1","1,151.7","2,089.2",228.1,SC,Sumter
+"Syracuse, NY M.S.A.",284.2,4.1,48.0,73.1,159.0,"2,059.1",383.4,"1,597.7",77.9,NY,Syracuse
+"Tallahassee, FL M.S.A.",767.1,6.6,80.9,122.3,557.2,"3,756.3",832.7,"2,602.3",321.3,FL,Tallahassee
+"Tampa-St. Petersburg-Clearwater, FL M.S.A.",384.1,4.0,32.7,87.5,259.9,"2,627.6",472.3,"1,964.2",191.0,FL,Tampa
+"Texarkana, TX-AR M.S.A.",468.5,5.4,50.9,72.3,340.0,"3,466.0",744.2,"2,490.3",231.6,TX,Texarkana
+"The Villages, FL M.S.A.",232.1,0.8,14.9,16.6,199.8,940.9,257.8,632.5,50.6,FL,The Villages
+"Toledo, OH M.S.A.2",583.6,4.4,51.7,163.6,363.9,"2,999.6",868.5,"1,946.8",184.3,OH,Toledo
+"Topeka, KS M.S.A.",391.7,6.0,48.4,100.7,236.6,"3,631.6",780.5,"2,572.0",279.0,KS,Topeka
+"Trenton, NJ M.S.A.2",374.1,5.4,25.0,144.7,199.0,"1,785.0",405.3,"1,188.5",191.2,NJ,Trenton
+"Tucson, AZ M.S.A.",421.4,4.5,52.5,123.7,240.8,"4,748.5",555.5,"3,936.4",256.6,AZ,Tucson
+"Tulsa, OK M.S.A.2",500.8,8.1,59.5,98.6,334.6,"3,160.6",824.5,"1,963.0",373.2,OK,Tulsa
+"Tuscaloosa, AL M.S.A.",392.9,4.2,35.9,107.8,244.9,"2,931.8",737.7,"2,040.4",153.8,AL,Tuscaloosa
+"Tyler, TX M.S.A.",295.7,5.4,28.0,47.9,214.5,"2,945.3",613.2,"2,120.8",211.3,TX,Tyler
+"Urban Honolulu, HI M.S.A.",243.9,1.5,31.8,89.7,120.9,"3,110.7",428.7,"2,294.6",387.4,HI,Honolulu
+"Utica-Rome, NY M.S.A.",233.6,2.7,56.2,38.9,135.8,"1,983.3",355.5,"1,558.4",69.4,NY,Utica
+"Vallejo-Fairfield, CA M.S.A.",474.1,7.1,44.1,154.2,268.7,"2,990.5",820.7,"1,664.6",505.2,CA,Vallejo
+"Victoria, TX M.S.A.",451.9,3.0,78.0,53.0,317.9,"2,824.3",617.9,"2,065.5",141.0,TX,Victoria
+"Vineland-Bridgeton, NJ M.S.A.2",583.4,10.2,49.0,219.5,304.7,"4,111.8",920.0,"3,086.9",105.0,NJ,Vineland
+"Virginia Beach-Norfolk-Newport News, VA-NC M.S.A.",309.3,8.0,31.3,98.2,171.9,"2,727.1",388.1,"2,194.8",144.2,VA,Virginia Beach
+"Visalia-Porterville, CA M.S.A.",395.8,9.7,37.9,71.7,276.4,"2,557.7",588.2,"1,571.1",398.4,CA,Visalia
+"Waco, TX M.S.A.",411.5,8.8,55.6,69.3,277.9,"3,019.1",659.7,"2,240.6",118.8,TX,Waco
+"Walla Walla, WA M.S.A.",311.2,6.2,43.6,37.3,224.1,"3,353.4",619.3,"2,513.1",221.0,WA,Walla Walla
+"Warner Robins, GA M.S.A.",358.5,2.6,22.7,100.7,232.5,"3,440.8",735.9,"2,553.1",151.8,GA,Warner Robins
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.S.A.",324.1,5.3,27.2,123.2,168.3,"1,929.2",215.5,"1,552.2",161.5,DC,Washington
+"Silver Spring-Frederick-Rockville, MD M.D.",204.2,2.8,23.9,58.1,119.4,"1,559.0",197.6,"1,293.0",68.4,MD,Silver Spring
+"Washington-Arlington-Alexandria, DC-VA-MD-WV M.D.",356.0,6.0,28.1,140.5,181.4,"2,027.9",220.3,"1,621.3",186.3,DC,Washington
+"Waterloo-Cedar Falls, IA M.S.A.",497.0,2.3,49.2,35.2,410.3,"2,075.4",624.2,"1,352.2",99.1,IA,Waterloo
+"Watertown-Fort Drum, NY M.S.A.",189.1,2.5,69.4,15.9,101.2,"1,961.3",332.2,"1,586.4",42.7,NY,Watertown
+"Wausau, WI M.S.A.",110.9,1.5,18.4,19.1,72.0,"1,208.5",187.3,985.1,36.0,WI,Wausau
+"Wenatchee, WA M.S.A.",100.3,0.9,17.3,10.4,71.8,"2,110.6",464.5,"1,505.1",141.0,WA,Wenatchee
+"Wheeling, WV-OH M.S.A.",333.9,3.5,33.2,39.5,257.7,"1,499.7",334.6,"1,092.4",72.7,WV,Wheeling
+"Wichita, KS M.S.A.6",673.2,4.7,66.6,118.8,483.1,,,"2,712.2",360.6,KS,Wichita
+"Wichita Falls, TX M.S.A.",334.5,1.3,67.2,81.7,184.4,"3,259.8",788.3,"2,291.1",180.4,TX,Wichita Falls
+"Williamsport, PA M.S.A.",209.3,6.0,48.0,47.2,108.1,"1,790.6",293.4,"1,454.3",42.9,PA,Williamsport
+"Wilmington, NC M.S.A.",423.7,7.2,34.0,121.7,260.8,"3,291.9",884.6,"2,252.8",154.6,NC,Wilmington
+"Winchester, VA-WV M.S.A.",173.6,1.5,56.6,28.3,87.2,"2,020.9",321.0,"1,603.7",96.1,VA,Winchester
+"Worcester, MA-CT M.S.A.",434.8,1.6,31.8,73.0,328.5,"1,746.2",372.7,"1,271.6",101.9,MA,Worcester
+"Yakima, WA M.S.A.",293.4,8.4,31.3,77.0,176.8,"3,537.4",907.9,"2,175.7",453.7,WA,Yakima
+"York-Hanover, PA M.S.A.",217.5,4.3,23.3,64.3,125.6,"1,551.4",232.6,"1,255.2",63.6,PA,York
+"Yuba City, CA M.S.A.",371.6,3.5,37.0,81.6,249.5,"2,588.6",659.3,"1,555.9",373.4,CA,Yuba City
+"Yuma, AZ M.S.A.",327.4,4.9,34.6,44.8,243.1,"2,249.6",627.1,"1,422.8",199.8,AZ,Yuma
+"Aguadilla-Isabela, Puerto Rico M.S.A.",108.7,4.8,3.5,40.5,59.9,710.2,284.5,403.3,22.5,"Aguadilla-Isabela, Puerto Rico M.S.A.",Aguadilla
+"Arecibo, Puerto Rico M.S.A.",99.3,6.9,2.7,53.1,36.6,"1,031.9",287.3,670.8,73.8,"Arecibo, Puerto Rico M.S.A.",Arecibo
+"Guayama, Puerto Rico M.S.A.",251.6,11.4,6.3,74.6,159.3,823.2,265.5,531.1,26.6,"Guayama, Puerto Rico M.S.A.",Guayama
+"Mayaguez, Puerto Rico M.S.A.",237.5,11.5,5.2,82.3,138.6,"1,320.0",377.1,861.6,81.3,"Mayaguez, Puerto Rico M.S.A.",Mayaguez
+"Ponce, Puerto Rico M.S.A.",231.4,18.0,5.0,66.2,142.2,885.0,214.4,632.4,38.1,"Ponce, Puerto Rico M.S.A.",Ponce
+"San German, Puerto Rico M.S.A.",92.1,5.4,4.6,16.1,66.0,420.0,168.9,226.5,24.6,"San German, Puerto Rico M.S.A.",San German
+"San Juan-Carolina-Caguas, Puerto Rico M.S.A.",262.0,20.6,4.9,157.8,78.7,"1,281.2",281.8,835.0,164.3,"San Juan-Carolina-Caguas, Puerto Rico M.S.A.",San Juan

@@ -1,0 +1,90 @@
+"""
+Produce a dataset of schools which satisfy all of Maria's criteria
+Rank them from best to worst according to the same criteria.
+
+Maria's schools must:
+1.  be in an urban/metropolitan area.
+2.  be in a city that ranks 75th percentile or higher on Kauffman's start-up rankings.
+3.  be below 50th percentile in overall crime.
+4.  offer a 2-year or 4-year degree in Information Technology/Science.
+5.  Maria doesn't like the cold. Find and integrate temperature data. 
+    Eliminate any schools located in cities/areas below the 25th percentile 
+    in average temperature.
+    
+
+The plan:
+1. Explore the data.
+    1. Read the pdf data dictionaries or codebooks to figure out what 
+    the variables mean and which ones you will need to use.
+    2. Look for suitable columns to join the tables on.
+    3. Load the data
+    4. Explore the loaded data and eliminate the unneeded columns.
+    5. Consider a metric for combined classification.
+2. Data preprocessing.
+    1. Perform any cleaning and standardization needed to facilitate 
+       the joins & data congruency.
+    2. Engineer a summary variable for school crime so that we can 
+    compare schools by levels of crime overall.
+3. Analysis.
+    1. Eliminate from the data all the data points that fail to satisfy Maria's criteria.
+    2. Engineer a summary parameter(equation) based on all the useful parameters.
+"""
+
+
+
+
+"""
+1.1.-1.2. Reading of data pdf documentation. Finding potentialy useful columns.
+
+The data(parameters) that I need:
+    -Area character (Metropolian/Urban)
+    -City name
+    -Kaufman startups ranking, city
+    -Crime rate (below 50th percentile)
+    -Study subject (Information Technology/Science)
+    -Subject lenght of studies/type of degree (2-year or 4-year degree)
+    -Yearly average temperature data
+
+Observation: the common parameter for all these data seems to be the City name.
+
+The pontentially useful data I can find (to explore further):
+*CollegeScoreboard:
+    Root
+    -ID
+    -Currently Operating
+    About the school
+    -Name
+    -Location
+    -Degree Type
+    Acedemics
+    -Programs Offered by Type
+*Crime:
+    Rates
+*Kaufmann Index Entrepreneurship
+    ent015u		entrepreneurship
+    MSA Code (cities)
+
+Observation: None of the current data sources has the temperature data. 
+    I found online a publicly available dataset for 321 cities in the US
+    (https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities)
+
+*Daily Temperature of Major Cities
+    -City
+    -AvgTemperature
+"""
+
+import numpy as np
+import pandas as pd
+import os
+
+for dirname, _, filenames in os.walk('/Users/apzuba/Documents/GitHub/data_wraggling exercises/The_best_University/Data'):
+    for filename in filenames:
+        os.path.join(dirname, filename)
+
+
+CollScoreboard_Raw = pd.load_csv("")
+
+
+
+pd.set_option('display.max_columns', None)  # Show all columns
+pd.set_option('display.expand_frame_repr', True)  # Disable column width wrapping
